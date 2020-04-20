@@ -1,0 +1,2 @@
+No se puede ver el archivo tp2_1_2, porque estabamso trabajando en un branch  y en la misma subimos el mismo punto pero con cambios 
+y al hacer el checkout master.. cambiamos de rama a la principal por eso no la podemos ver
